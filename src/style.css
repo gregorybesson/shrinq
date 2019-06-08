@@ -1,0 +1,30 @@
+body {
+    background-color: #1FD404;
+    overflow-y: auto;
+}
+
+.title {
+    margin: auto;
+    width: 80%;
+}
+
+h3, form, thead {
+    text-align: center;
+}
+
+table {
+    border: black 1px solid;
+    margin: 5px;
+    width: 80%;
+    margin: auto;
+}
+
+button {
+    background-color: #bbb;
+    padding: 15px;
+    font-size: larger;
+    border: 1px #888 solid;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    outline:none;
+}
